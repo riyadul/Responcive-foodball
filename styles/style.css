@@ -74,6 +74,12 @@
   color: #FFFFFF;
   border: none;
  }
+ button:hover{
+ 
+  background:white ;
+  color: #E02C6D;
+  
+ }
  
  .watch-button a{
   text-decoration: none;
